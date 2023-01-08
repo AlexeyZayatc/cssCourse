@@ -1,0 +1,58 @@
+.main {
+    margin: 20 auto;
+    width: 600px;
+}
+
+.menu {
+    display: inline-block;
+    margin: 10 10;
+    padding: 2 5;
+    background-color: gainsboro;
+    color: black;
+}
+
+.menu-background {
+    background-color: gray;
+    text-align: center;
+}
+
+.upper-block {
+    margin: 30 auto;
+    color: yellow;
+    background-color: green;
+}
+
+.images {
+    text-align: center;
+}
+
+.img {
+    display: inline-block;
+    width: 33.33%;
+    overflow: hidden;
+    padding: 1px;
+    box-sizing: border-box;
+}
+
+img {
+    width: 100%;
+}
+
+.bottom-blocks {
+    text-align: center;
+}
+
+.left-block {
+    display: inline-block;
+    background-color: orange;
+    width: 60%;
+    color: black;
+}
+
+.right-block {
+    display: inline-block;
+    width: 40%;
+    background-color: pink;
+    vertical-align: top;
+    color: white;
+}
